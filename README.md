@@ -1,6 +1,10 @@
 <h1 align="center">Todo List</h1>
 <p align="center">Mark and unmark your tasks with this application.</p>
-![license](https://img.shields.io/github/license/mathvsk/todo-list.svg)
+
+<div align="center">
+  
+  ![License](https://img.shields.io/github/license/mathvsk/todo-list.svg)
+</div>
 
 ## Features
 + [x] Create a task
@@ -26,3 +30,5 @@ npm run dev
 ## Final Project
 <img src=".github/assets/todo.png" alt="">
 
+<!-- Badges -->
+[BADGE_LICENSE]: https://img.shields.io/github/license/mathvsk/todo-list.svg
