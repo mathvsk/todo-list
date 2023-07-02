@@ -22,4 +22,4 @@ Clone the project and execute the following commands to run it.
 
 ## Final Project
 ---
-<img src=".github/assets/todo.png" alt="">
+<img style="border-radius: 30px;" src=".github/assets/todo.png" alt="">
