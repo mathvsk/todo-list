@@ -1,5 +1,6 @@
 <h1 align="center">Todo List</h1>
 <p align="center">Mark and unmark your tasks with this application.</p>
+![license](https://img.shields.io/github/license/mathvsk/todo-list.svg)
 
 ## Features
 + [x] Create a task
