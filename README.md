@@ -23,9 +23,5 @@ npm run dev
 ```
 
 ## Final Project
-<<<<<<< HEAD
----
-<img style="border-radius: 30px;" src=".github/assets/todo.png" alt="">
-=======
-<img style="border-radius: 30px;" src=".github/assets/todo.png">
->>>>>>> 10a0bf38fe5b966a2bb7b6c27d862d97a0624c23
+<img src=".github/assets/todo.png" alt="">
+
