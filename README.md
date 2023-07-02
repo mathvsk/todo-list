@@ -8,10 +8,10 @@
 + [x] Mark and unmark a task as done
 
 ## Technologies
-+ <a href="https://react.dev/" target="_blank">React</a>
-+ <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>
-+ <a href="https://www.radix-ui.com/" target="_blank">Radix</a>
-+ <a href="https://styled-components.com/" target="_blank">Styled Component</a>
++ [React](https://react.dev/)
++ [Typescript](https://www.typescriptlang.org/)
++ [Radix](https://www.radix-ui.com/)
++ [Styled Component](https://styled-components.com/)
 
 ## How to use
 Clone the project and execute the following commands to run it.
@@ -22,5 +22,5 @@ npm install
 npm run dev
 ```
 
-## Final Projet
+## Final Project
 <img style="border-radius: 30px;" src=".github/assets/todo.png">
